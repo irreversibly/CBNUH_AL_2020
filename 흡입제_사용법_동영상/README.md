@@ -1,5 +1,7 @@
 파일사이즈가 커서 동영상 파일 첨부가 안되네요. 
-다음 주소에 들어가서 회원가입( https://www.e-allergy.org/participation/pds.aspx?category=2 ) 후
+
+다음 주소에 들어가서 회원가입 후 
+(https://www.e-allergy.org/participation/pds.aspx?category=2)
 
 1. 터부할러 사용법
 2. 디스커스 사용법
